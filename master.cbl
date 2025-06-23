@@ -1,0 +1,6 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. master.
+
+       PROCEDURE DIVISION.
+
+           STOP RUN.
